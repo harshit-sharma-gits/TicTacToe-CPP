@@ -42,7 +42,7 @@
 			<Add option="-lole32" />
 			<Add library="C:/Program Files/CodeBlocks/MinGW/lib/libbgi.a" />
 		</Linker>
-		<Unit filename="include/functions.h" />
+		<Unit filename="include/functions.hpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/functions.cpp" />
 		<Extensions>

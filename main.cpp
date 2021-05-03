@@ -1,5 +1,5 @@
 #include <graphics.h>
-#include "functions.h"      // include some functions
+#include "functions.hpp" // include some functions
 #include <iostream>
 using namespace std;
 
